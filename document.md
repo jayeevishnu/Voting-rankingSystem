@@ -69,7 +69,7 @@ ___
     paricular id.
 ```
 ### Now If we see Do we Really Need to Handle Web-Socket?
-    -> we can use pooling to get the top K and participant Rank which help in remove load;
+    -> we can use pooling to get the top K and participant Rank which help in remove load or sse events;
 ___
 
 ## FEW MORE QUESTION
