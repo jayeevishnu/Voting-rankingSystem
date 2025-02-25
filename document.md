@@ -55,6 +55,9 @@ ___
 
         2. Approch 2 Use Redis Sorted List
         But Here We Tackle Problem  that we can not partation it so if we require **api that provide the near me then cause problem**
+            this approch will work fine because redis sorted set provide us all the functionality that we might require in future
+            It can easily handle millions of users . If our User group inc we can again go to approch one and hybrid appproch with caching and
+            Databse query and sorting. 
 
     
     ### How We Can Solve this
